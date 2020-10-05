@@ -1,6 +1,5 @@
 name: Openwrt-AutoBuild
 
-
 on:
   release:
     types: [published]
